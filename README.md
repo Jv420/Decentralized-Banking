@@ -14,4 +14,4 @@ So What are you waiting for?? go and give a try...
 
 Metamask and ropsten testnet..
 
-https://salmandabbakuti.github.io/Decentralized-Banking/
+https://jv420.github.io/Decentralized-Banking
